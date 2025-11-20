@@ -4,4 +4,6 @@ project(programacion2proyecto)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(programacion2proyecto
-        main.cpp)
+        main.cpp
+        clases.cpp
+        clases.h)
