@@ -40,7 +40,6 @@ void mostrarCreditos() {
     cout << "- Campos Ticona, Jose Gabriel" << endl;
     cout << "- Estrella Camacho, Juan Martin" << endl;
     cout << "- Norena Paredes, Steven Daniel" << endl;
-    cout << "- Briceno Villegas, Leonardo Fabian" << endl;
     cout << "==========================================" << endl;
     cout << "Released on 29/11/25" << endl;
     cout << "==========================================" << endl;
