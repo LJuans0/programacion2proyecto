@@ -5,8 +5,6 @@
 * Campos Ticona, José Gabriel  
 * Estrella Camacho, Juan Martin  
 * Norena Paredes, Steven Daniel  
-* Briceno Villegas, Leonardo Fabian
-
 
 ## **Información general**
 
